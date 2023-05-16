@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+
 !**/src/main/resources/frontend/.angular
 !**/src/main/resources/frontend/node_modules
 ### STS ###
